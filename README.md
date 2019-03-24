@@ -7,4 +7,4 @@ express + webpack + BabelでHMRを使いながらIE11対応する
 
     npm run build
     or
-    npx webpack
+    node server
